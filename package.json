@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation-scratch-framework",
+  "version": "1.0.0",
+  "description": "Cypress -Modern Automation Testing from Scratch + Frameworks ## Instalation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunorodrigoss/cypress-automation-scratch-framework.git"
+  },
+  "author": "Bruno Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunorodrigoss/cypress-automation-scratch-framework/issues"
+  },
+  "homepage": "https://github.com/Brunorodrigoss/cypress-automation-scratch-framework#readme",
+  "devDependencies": {
+    "cypress": "^8.3.1"
+  }
+}
